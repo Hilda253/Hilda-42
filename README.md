@@ -1,5 +1,5 @@
 # Hilda-42
-TIMETABLE IMPLEMENTATION
+##TIMETABLE IMPLEMENTATION.
 
 ##HTML AND CSS TABLE CREATION.
 HTML tables are built using the <table> element, with rows defined by <tr> (table row) and 
